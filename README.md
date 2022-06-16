@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Git hub, HTML, & CSS
 - 📫 How to reach me: My Email which is Getitdonemin@gmail.com
 
+<!--
 **Getitdonemin/Getitdonemin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
